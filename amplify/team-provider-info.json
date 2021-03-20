@@ -1,25 +1,25 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-youtube-dev-75632-authRole",
-            "UnauthRoleArn": "arn:aws:iam::885121665536:role/amplify-youtube-dev-75632-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::885121665536:role/amplify-youtube-dev-75632-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-youtube-dev-75632-deployment",
-            "UnauthRoleName": "amplify-youtube-dev-75632-unauthRole",
-            "StackName": "amplify-youtube-dev-75632",
-            "StackId": "arn:aws:cloudformation:us-east-1:885121665536:stack/amplify-youtube-dev-75632/258672e0-ac54-11ea-b5cf-12878b97cc21",
-            "AmplifyAppId": "d1qauu1ce4iu4l"
+            "AuthRoleName": "amplify-youtube-dev-154614-authRole",
+            "UnauthRoleArn": "arn:aws:iam::924338216746:role/amplify-youtube-dev-154614-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::924338216746:role/amplify-youtube-dev-154614-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-youtube-dev-154614-deployment",
+            "UnauthRoleName": "amplify-youtube-dev-154614-unauthRole",
+            "StackName": "amplify-youtube-dev-154614",
+            "StackId": "arn:aws:cloudformation:eu-west-2:924338216746:stack/amplify-youtube-dev-154614/698f2a00-8993-11eb-ac7c-0a2c9ae353be",
+            "AmplifyAppId": "d11vqs3bo80q2d"
         },
         "categories": {
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "d1qauu1ce4iu4l",
-                    "type": "manual"
-                }
-            },
             "auth": {
                 "youtube9ebe0909": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d11vqs3bo80q2d",
+                    "type": "manual"
+                }
             }
         }
     }
